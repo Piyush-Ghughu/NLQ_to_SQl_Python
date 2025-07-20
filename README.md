@@ -7,7 +7,7 @@
 <div align="center" style="margin-bottom: 20px;">
   <h2 style="color:#ff6f61;">🎥 Live Demo</h2>
 <!--   https://github.com/user-attachments/assets/509f6a45-1e3c-44e2-80b7-ce2170815bf1 -->
-  <video src="https://github.com/user-attachments/assets/509f6a45-1e3c-44e2-80b7-ce2170815bf1 ">  </video>
+  <video src="https://github.com/user-attachments/assets/509f6a45-1e3c-44e2-80b7-ce2170815bf1">  </video>
   ## 🎥 Live Demo
 [![Watch the Demo](https://github.com/user-attachments/assets/509f6a45-1e3c-44e2-80b7-ce2170815bf1)]
 
