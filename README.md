@@ -8,10 +8,7 @@
   <h2 style="color:#ff6f61;">🎥 Live Demo</h2>
 <!--   https://github.com/user-attachments/assets/509f6a45-1e3c-44e2-80b7-ce2170815bf1 -->
   <video src="https://github.com/user-attachments/assets/509f6a45-1e3c-44e2-80b7-ce2170815bf1">  </video>
-  <p style="font-style: italic; color: #888;">Watch the chatbot convert your natural language queries to real-time SQL
-    and display database results instantly.</p>
 </div>
-
 <h2 style="color:#764ba2;">🛠️ How This Project Was Built</h2>
 
 <ul>
