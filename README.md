@@ -12,7 +12,7 @@
 <h2 style="color:#764ba2;">🛠️ How This Project Was Built</h2>
 
 <ul>
-  <li><span style="color:#333;"><strong>Frontend:</strong> React (HTML + CSS + Axios)</span></li>
+  <li><span style="color:#333;"><strong>Frontend:</strong> React (HTML + CSS)</span></li>
   <li><span style="color:#333;"><strong>Backend:</strong> FastAPI with REST endpoints</span></li>
   <li><span style="color:#333;"><strong>LLM:</strong> Groq-hosted LLaMA or Mistral for converting natural language to
       SQL</span></li>
