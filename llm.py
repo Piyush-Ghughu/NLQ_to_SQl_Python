@@ -2,20 +2,19 @@ import os
 import requests
 from dotenv import load_dotenv
 
-# Load API key from .env
 load_dotenv()
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 
 # API endpoint for Groq
 GROQ_URL = "https://api.groq.com/openai/v1/chat/completions"
 
-# Headers for the POST request
+# Headers
 HEADERS = {
     "Authorization": f"Bearer {GROQ_API_KEY}",
     "Content-Type": "application/json"
 }
 
-# Prompt to instruct the LLM
+
 SYSTEM_PROMPT = """
 You are an expert at converting natural language to SQL.
 Only use this table: customer with columns: id, name, gender, location, ph_number.
@@ -25,7 +24,7 @@ If the user's input cannot be understood or mapped to a valid SELECT query, resp
 
 """
 
-# Function to convert NL → SQL
+
 def nl_to_sql(nl_query: str) -> str:
     body = {
         "model": "llama3-70b-8192",
