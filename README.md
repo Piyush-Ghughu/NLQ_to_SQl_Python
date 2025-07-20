@@ -7,7 +7,7 @@
 <div align="center" style="margin-bottom: 20px;">
   <h2 style="color:#ff6f61;">🎥 Live Demo</h2>
   <video width="80%" controls>
-  https://github.com/user-attachments/assets/509f6a45-1e3c-44e2-80b7-ce2170815bf1
+    <source src="https://github.com/user-attachments/assets/509f6a45-1e3c-44e2-80b7-ce2170815bf1" type="video/mp4">
     Your browser does not support the video tag.
   </video>
   <p style="font-style: italic; color: #888;">Watch the chatbot convert your natural language queries to real-time SQL
